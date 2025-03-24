@@ -1,6 +1,6 @@
 ##  Laura Chavarriaga Mancini
 
-Soy desarrolla de software en progreso.
+Soy desarrolladora de software en progreso.
 
 ## Teconologías
 

@@ -2,11 +2,6 @@
 
 Soy desarrolladora de software en progreso.
 
-## Teconologías
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square&color=007ACC)
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laurachaman@icloud.com) 
 
